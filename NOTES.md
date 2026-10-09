@@ -2,3 +2,4 @@
 - note 3: the checklist mirrors the test matrix (2026-10-09T23:22:01)
 - note 5: names follow the directory layout (2026-10-09T23:22:23)
 - note 7: the sample command stays copy-pasteable (2026-10-09T23:22:39)
+- note 9: keep the changelog one entry per release (2026-10-09T23:22:54)
