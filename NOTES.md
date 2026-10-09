@@ -8,3 +8,4 @@
 - note 15: paths in examples stay relative (2026-10-09T23:23:40)
 - note 17: keep the documented order (2026-10-09T23:23:56)
 - note 19: keep the titles in sentence case (2026-10-09T23:24:11)
+- note 21: keep the titles in sentence case (2026-10-09T23:24:25)
