@@ -1,6 +1,6 @@
 # policy-sandbox
 
-Notes and checklists kept next to the code so reviews stay quick.
+Documentation scratchpad for notes, lists and review prep.
 
 ## Notes
 
