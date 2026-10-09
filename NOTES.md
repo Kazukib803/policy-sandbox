@@ -6,3 +6,4 @@
 - note 11: keep the titles in sentence case (2026-10-09T23:23:09)
 - note 13: the retry section mirrors the code (2026-10-09T23:23:26)
 - note 15: paths in examples stay relative (2026-10-09T23:23:40)
+- note 17: keep the documented order (2026-10-09T23:23:56)
