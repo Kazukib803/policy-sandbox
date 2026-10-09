@@ -1,2 +1,3 @@
 - note 1: the sample command stays copy-pasteable (2026-10-09T23:21:46)
 - note 3: the checklist mirrors the test matrix (2026-10-09T23:22:01)
+- note 5: names follow the directory layout (2026-10-09T23:22:23)
