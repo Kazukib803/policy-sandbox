@@ -5,3 +5,4 @@
 - note 9: keep the changelog one entry per release (2026-10-09T23:22:54)
 - note 11: keep the titles in sentence case (2026-10-09T23:23:09)
 - note 13: the retry section mirrors the code (2026-10-09T23:23:26)
+- note 15: paths in examples stay relative (2026-10-09T23:23:40)
